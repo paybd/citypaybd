@@ -21,7 +21,7 @@ const onDownloadButtonClick = ()=>{
     <div className="">
 <div className="items-center justify-center col-span-6 mb-8">
   
-  <Link href="https://github.com/paybd/citypay/raw/refs/heads/main/public/app.apk" className="bg-green-600 px-4 py-4 rounded-lg flex  shadow-md shadow-green-600"><h1 className="text-white text-sm mx-auto">DOWNLOAD APP</h1> <DownloadCloudIcon color="white"/></Link>
+  <Link href="https://www.dropbox.com/scl/fi/i43idsbev39qqr1fbhuzy/app.apk?rlkey=371jgtkbihjdjq9bircwfywss&st=qfdpqkqb&dl=1" className="bg-green-600 px-4 py-4 rounded-lg flex  shadow-md shadow-green-600"><h1 className="text-white text-sm mx-auto">DOWNLOAD APP</h1> <DownloadCloudIcon color="white"/></Link>
   </div>
 
 <div className="flex items-center justify-center">
@@ -62,7 +62,7 @@ const onDownloadButtonClick = ()=>{
 
 <div className="items-center justify-center col-span-6">
   
-<Link href="https://github.com/paybd/citypay/raw/refs/heads/main/public/app.apk" className="bg-green-600 px-4 py-4 rounded-lg flex gap-2 shadow-md shadow-green-600"><h1 className="text-white text-sm">DOWNLOAD APP</h1> <DownloadCloudIcon color="white"/></Link>
+<Link href="https://www.dropbox.com/scl/fi/i43idsbev39qqr1fbhuzy/app.apk?rlkey=371jgtkbihjdjq9bircwfywss&st=qfdpqkqb&dl=1" className="bg-green-600 px-4 py-4 rounded-lg flex gap-2 shadow-md shadow-green-600"><h1 className="text-white text-sm">DOWNLOAD APP</h1> <DownloadCloudIcon color="white"/></Link>
 </div>
    </div>
 
